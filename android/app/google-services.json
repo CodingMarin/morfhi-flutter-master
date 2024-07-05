@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "605306315512",
+    "project_id": "morfhi-app",
+    "storage_bucket": "morfhi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605306315512:android:558577a74c4ec64b28910d",
+        "android_client_info": {
+          "package_name": "com.example.morfhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605306315512-m9jg6ibsic1c3r59feiqee4q91gnl41a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.morfhi",
+            "certificate_hash": "fee219791bc553fecbe5aeead63ba2d2575fc083"
+          }
+        },
+        {
+          "client_id": "605306315512-ncsl284apo14d29bdnp3gthed4qscd47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgfdCmzPQxVGuwCXvi8Ljtvh0Pg_amhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605306315512-ncsl284apo14d29bdnp3gthed4qscd47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605306315512-tbg2lqvivbbhm2p22j4o5kgbl1k2ncv0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.morfhi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
